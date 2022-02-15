@@ -50,7 +50,6 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-<<<<<<< HEAD:pubspec.yaml
   cupertino_icons: ^1.0.4
   path_provider: ^2.0.8
   # firebase_messaging: ^11.2.6
@@ -63,14 +62,6 @@ dependencies:
   firebase_core: ^1.12.0
   firebase_auth: ^3.3.6
 
-=======
-  cupertino_icons: ^1.0.2
-  ussd_service: ^0.1.1
-
-  # Direct phone call
-  flutter_phone_direct_caller: ^2.1.0
-  url_launcher: ^6.0.18
->>>>>>> a0a8e7b6326aec598d3ae89685beabe6442efdb3:cnote/pubspec.yaml
 
 dev_dependencies:
   flutter_test:
